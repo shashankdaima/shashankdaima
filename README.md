@@ -1,16 +1,21 @@
 ### Hi there 👋
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
 
-<!--
-**shashankdaima/shashankdaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href= "https://github.com/shashankdaima/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/shashank-daima-b5b66b202/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://t.me/daimashashank10">
+    <img src="https://img.icons8.com/material/30/000000/telegram-app.png"/>
+  </a>
+  
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on making Android apps for edtech startup.
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Clean Architecture
+- ⚡ Fun fact: Why aunt still like to have it with Uncle Bob? Because Uncle Bob will like to have it clean.
