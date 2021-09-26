@@ -20,7 +20,7 @@
 - 💬 Ask me about Clean Architecture
 - ⚡ Fun fact: Why aunt still like to have it with Uncle Bob? Because Uncle Bob will like having it clean.
 
----
+
 ## My Future Goals
 1. Learn about Unit Testing and Android Testing(also known as UI testing)
 2. CI/CD in Android
