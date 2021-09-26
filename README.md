@@ -28,7 +28,7 @@
 
 ## Current TODOs:
 * [x] Make a Clean Architecture Project{Current}
-* [ ] Make a Flutter TODO List application
+* [x] Make a Flutter TODO List application {Current}
 * [ ] Make a Girlfriend (because I need a life)
 * [ ] Make a youtube channel for new comer android developers 
 * [ ] Join open source Community of Mobile Developers
