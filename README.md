@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on making Android apps for edtech startup and looking for more work.
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Clean Architecture
-- ⚡ Fun fact: Why aunt still like to have it with Uncle Bob? Because Uncle Bob will like having it clean.
 
 
 ## My Future Goals
