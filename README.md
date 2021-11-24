@@ -24,8 +24,7 @@
 1. Learn about Unit Testing and Android Testing(also known as UI testing)
 2. CI/CD in Android
 3. Learn about React Native and IOS application Development
-## Code Snippets:
-1. <script src="https://gist.github.com/shashankdaima/26c8c6229b9a1eb868b19573abfd3c49.js"></script>
+
 ## Current TODOs:
 - [x] Make a Clean Architecture Project{Current}
 - [x] Make a Flutter TODO List application {Current}
