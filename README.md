@@ -24,10 +24,3 @@
 1. Learn about Unit Testing and Android Testing(also known as UI testing)
 2. CI/CD in Android
 3. Learn about React Native and IOS application Development
-
-## Current TODOs:
-- [x] Make a Clean Architecture Project{Current}
-- [x] Make a Flutter TODO List application {Current}
-- [ ] Make a youtube channel for new comer android developers 
-- [ ] Join open source Community of Mobile Developers
-
