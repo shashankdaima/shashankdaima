@@ -15,7 +15,7 @@
   
 </p>
 
-- 🔭 I’m currently working on making Android apps for edtech startup and looking for more work.
+- 🔭 I’m currently looking for Android and Flutter Fulltime Jobs. 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Clean Architecture
 
